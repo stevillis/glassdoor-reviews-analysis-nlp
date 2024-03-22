@@ -1,4 +1,4 @@
-review_id,company,employee_role,employee_detail,rating_text,review_date,star_rating,sentiment
+review_id,company,employee_role,employee_detail,review_text,review_date,star_rating,sentiment
 82630669,Tecnomapas,Recepcionista,"Ex-funcionário(a), mais de um ano","Companheirismo entre os colegas, oportunidade de crescimento",15 de dez. de 2023,5.0,1
 82630669,Tecnomapas,Recepcionista,"Ex-funcionário(a), mais de um ano",Não tive nenhum ponto negativo,15 de dez. de 2023,5.0,0
 74420027,Tecnomapas,Analista Desenvolvedor,Ex-freelancer,Equipe bem prestativa e ótima de se trabalhar.,11 de mar. de 2023,4.0,1
