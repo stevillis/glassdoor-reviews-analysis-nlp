@@ -96,6 +96,7 @@ if __name__ == "__main__":
                     new_label
                 ]
                 reviews_df.at[st.session_state["index"], "reviewed"] = 1
+
                 st.session_state["reviews_df"] = reviews_df
 
         with st.container(border=True, height=240):
