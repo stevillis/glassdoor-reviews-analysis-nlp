@@ -1,4 +1,4 @@
-# Unveiling Sentiments: Exploring Glassdoor Reviews of IT Companies in Cuiabá through Natural Language
+# Unveiling Sentiments: Exploring Glassdoor Reviews of IT Companies in Cuiabá through Natural Language Processing
 
 In today's digital age, online platforms serve as powerful repositories of user-generated content, offering invaluable insights into consumer experiences and sentiments. Among these platforms, Glassdoor stands out as a prominent hub for employee reviews, providing a wealth of feedback on companies from individuals across various industries.
 
