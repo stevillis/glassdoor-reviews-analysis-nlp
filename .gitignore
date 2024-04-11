@@ -167,3 +167,6 @@ data_mining/todo.md
 
 # Annotation Backup
 annotation_backup
+
+# Models
+*.bin
