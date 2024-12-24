@@ -1,4 +1,4 @@
-# Unveiling Sentiments: Exploring Glassdoor Reviews of IT Companies in Cuiabá through Natural Language Processing
+# SENTIMENT ANALYSIS IN REVIEWS ON GLASSDOOR: A study on Information Technology companies in Cuiabá
 
 In today's digital age, online platforms serve as powerful repositories of user-generated content, offering invaluable insights into consumer experiences and sentiments. Among these platforms, Glassdoor stands out as a prominent hub for employee reviews, providing a wealth of feedback on companies from individuals across various industries.
 
@@ -6,14 +6,14 @@ In this project, we embark on a journey to explore and analyze Glassdoor reviews
 
 Our endeavor is divided into several key phases:
 
-## Data Mining
+## 1. Data Mining
 The Data Mining process, facilitated by [scraper.ipynb](/data_mining/scraper.ipynb), involves the systematic downloading of HTML review pages from Glassdoor for a predefined list of Companies. Due to the absence of a public API for extracting reviews data from Glassdoor, the `Selenium` web automation tool was utilized. This process entails navigating to each review page and downloading its HTML content, with careful consideration given to incorporating delays between requests to circumvent potential blocking mechanisms imposed by Glassdoor.
 
 The collected HTML pages serve as the raw material for subsequent data extraction and analysis steps, enabling the generation of valuable insights into employee sentiments and company reputations.
 
-## Data Preparation
+## 2. Data Preparation
 
-### Data Extraction
+### 2.1 Data Extraction
 The Data Extraction process, facilitated by [data_preparation.ipynb](/data_preparation/data_preparation.ipynb), reads the HTML files downloaded in the previous section to extract reviews and transform them into a structured dataset. The resulting dataset contains the following columns:
 
 - **review_id:** Glassdoor Review ID
@@ -27,19 +27,17 @@ The Data Extraction process, facilitated by [data_preparation.ipynb](/data_prepa
 
 This process enables the organization and analysis of reviews for further insights and decision-making.
 
-
-
-### Data Conversion
+### 2.2 Data Conversion
 The Data Conversion process utilizes the [data_conversion.ipynb](/data_preparation/data_conversion.ipynb) notebook to predict the sentiment of reviews using the [citizenlab/twitter-xlm-roberta-base-sentiment-finetunned](https://huggingface.co/citizenlab/twitter-xlm-roberta-base-sentiment-finetunned) model.
 
 This classification is crucial for reviews that do not fit into the categories of purely positive or negative. Since Glassdoor only offers these two options for classifying reviews, predicting sentiments ensures that all reviews are appropriately categorized.
 
-### Data Merge
+### 2.3 Data Merge
 The Data Merge process involves merging annotated sentiments with the extracted sentiments. This task is facilitated by the [data_merge.ipynb](/data_preparation/data_merge.ipynb) notebook.
 
 By combining annotated sentiments, manually reviewed using the Sentiment Annotation Tool, with the initially extracted sentiments, the dataset achieves improved accuracy and reliability in sentiment classification.
 
-### Sentiment Annotation Tool
+### 2.4 Sentiment Annotation Tool
 In the [Sentiment Annotation Tool](/data_preparation/annotation_tool.py), predictions from the previous section undergo human review. This tool, built with Streamlit, empowers users to:
 
 - View each review alongside its current sentiment (extracted from Glassdoor) and the sentiment classified by [citizenlab/twitter-xlm-roberta-base-sentiment-finetunned](https://huggingface.co/citizenlab/twitter-xlm-roberta-base-sentiment-finetunned).
@@ -51,32 +49,33 @@ In the [Sentiment Annotation Tool](/data_preparation/annotation_tool.py), predic
 
 ![Sentiment Annotation Tool Preview](./data_preparation/annotation_tool_preview.png)
 
-## Data Visualization
+## 3. Data Analysis
 
-#### Review Text Length Histogram
-- Histogram showing the distribution of review text lengths.
+The [data_analysis.ipynb](/data_analysis/data_analysis.ipynb) notebook offers an in-depth examination of the Glassdoor reviews dataset, utilizing visualizations and statistical summaries to explore the distribution and sentiment of the review texts. Key components include a general overview that presents basic statistics and visualizations of reviews per company.
 
-#### Token Frequency
-- Histogram displaying the frequency distribution of tokens in the review text.
-- Boxplot visualizing the spread of token frequencies.
+The analysis delves into review text characteristics, featuring histograms for text length, word counts, and average word length, alongside token frequency analysis using the BERT tokenizer. It also includes n-grams analysis to identify common bigrams and trigrams by sentiment, as well as word clouds to highlight frequent terms across different sentiment categories. Finally, the notebook presents a comprehensive sentiment analysis, illustrating the distribution of sentiments within the dataset and visualizing results post-manual annotation through various graphical tools.
 
-#### Review Word Counts Histogram
-- Histogram illustrating the distribution of word counts in the review text.
+## 4. Train model
 
-#### Review Average Word Length
-- Visualization depicting the average length of words used in the reviews.
+The [train.ipynb](/train_model/train.ipynb) notebook is designed to train a sentiment analysis model on the Glassdoor reviews dataset. It provides a comprehensive workflow for training a sentiment analysis model, from data preparation to model evaluation and saving. Key steps in the notebook include:
 
-#### Most Frequently Stop Words
-- Chart showcasing the most frequently occurring stop words in the reviews.
+### 4.1 Data Preparation:
+- Loads and preprocesses the dataset, including text cleaning and tokenization.
+- Splits the data into training and validation sets.
 
-#### Most Frequently Non-Stop Words
-- Chart displaying the most frequently occurring non-stop words in the reviews.
+### 4.2 Model Setup:
+- Configures the model architecture, typically using a pre-trained transformer model such as BERT.
+- Sets up the training parameters, including learning rate, batch size, and number of epochs.
 
-#### N-Grams
-- Visualization highlighting the most common n-grams (sequences of words) in the reviews.
+### 4.3 Training:
+- Trains the model on the training set, monitoring performance on the validation set.
+- Utilizes techniques such as early stopping and learning rate scheduling to optimize training.
 
-#### Wordcloud
-- Wordcloud representation of the most common words used in the reviews.
 
-#### Sentiment Distribution
-- Visualization displaying the distribution of sentiment labels (e.g., positive, negative, neutral) in the dataset.
+### 4.4 Evaluation:
+- Evaluates the trained model on the validation set, calculating metrics such as accuracy, precision, recall, and F1-score.
+- Visualizes the training and validation loss over epochs to assess model performance.
+
+
+### 4.5 Saving the Model:
+- Saves the trained model and tokenizer for future inference and deployment.
