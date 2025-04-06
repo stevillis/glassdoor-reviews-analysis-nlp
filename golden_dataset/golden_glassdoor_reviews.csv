@@ -1,0 +1,289 @@
+review_id,company,employee_role,employee_detail,review_text,review_date,star_rating,sentiment,predicted_sentiment_m1,predicted_sentiment_m2,predicted_sentiment_m3,predicted_sentiment_m4
+75214861,TOTVS,Consultor De Vendas Sênior,Funcionário(a) atual,Nada a reclamar até o momento.,5 de abr. de 2023,4.0,0,0,0,0,0
+78733006,TOTVS,Product Owner,"Funcionário(a) atual, mais de 5 anos",Não ha nada que desabone,31 de jul. de 2023,5.0,0,0,0,0,0
+60846585,TOTVS,Especialista,"Funcionário(a) atual, mais de um ano",Não há no momento atual.,9 de mar. de 2022,5.0,0,0,0,0,0
+78115917,TOTVS,Assistente Administrativo,"Funcionário(a) atual, mais de 10 anos",Nenhum amo a empresa que trabalho,10 de jul. de 2023,5.0,0,0,1,0,0
+75512828,TOTVS,Sales Development Representative (SDR),Ex-funcionário(a),Não vi contras na empresa,14 de abr. de 2023,5.0,0,0,0,0,0
+80231381,TOTVS,Analista marketing pleno,"Funcionário(a) atual, mais de um ano",Não tem nenhum contra significativo,19 de set. de 2023,5.0,0,0,0,0,0
+59111091,TOTVS,Analista De Sistemas,Ex-funcionário(a),Nenhum ponto relevante a mencionar,4 de fev. de 2022,5.0,0,0,0,0,0
+65034776,TOTVS,Analista De Sistemas Júnior,"Funcionário(a) atual, mais de 3 anos","- Nenhum contra relevante
+
+- Hibrido",2 de jun. de 2022,5.0,0,0,0,0,0
+80848344,Sankhya Gestão de Negócios,Consultor De Atendimento I,Funcionário(a) atual,"Não tenho contras, sempre temos muitas oportunidades aqui dentro!",11 de out. de 2023,5.0,0,0,1,0,0
+75675660,Sankhya Gestão de Negócios,Analista Comercial,"Funcionário(a) atual, mais de 3 anos",Não tem nenhum ponto contra indicação.,20 de abr. de 2023,5.0,0,0,0,0,0
+33630575,TOTVS,Analista De Desenvolvimento De Software Júnior,Funcionário(a) atual,"A empresa disponibilizou apenas o notebook e quem teve sorte conseguiu levar alguns itens ergonômico, mas quando se faz home office há mais de 1 mês seguido sem os equipamentos adequados as dores começam a aparecer rs, seria interessante a empresa ter mais sensibilidade nesse sentido e disponibilizar aos funcionários a cadeira e outros itens que pode ajudar nesse momento.",10 de jun. de 2020,5.0,0,0,0,0,0
+27034054,TOTVS,Analista De Sistemas Desenvolvedor,Funcionário(a) atual,Não tenho pontos negativos,4 de ago. de 2018,4.0,0,0,0,0,0
+50932219,TOTVS,Tech Recruiter,"Funcionário(a) atual, menos de um ano","Desde que iniciei no processo seletivo, não observei nenhum ponto de atenção relevante.",10 de ago. de 2021,5.0,0,0,0,0,0
+71342205,TOTVS,Product Specialist,"Funcionário(a) atual, mais de 8 anos","Como eu preciso fazer as demonstrações dos produtos, a univesidade TOTVS é muito importante para conhecer e repassar para os clientes e prospets, as funcionalidades que vão ajudar os nossos clientes.",23 de nov. de 2022,5.0,0,0,0,0,0
+26635853,TOTVS,Analista De Sistemas Sênior,Funcionário(a) atual,"O salário não é lá essas coisas, mas pelo ambiente até vale a pena",25 de mar. de 2015,5.0,0,1,1,1,0
+70554648,TOTVS,Assistente Comercial,"Funcionário(a) atual, mais de 10 anos",Não tenho nada para declarar!,27 de out. de 2022,5.0,0,0,0,0,0
+63769975,TOTVS,Software Developer,Funcionário(a) atual,Nenhum ponto negativo que mereça destaque.,6 de mai. de 2022,5.0,0,0,0,0,0
+52694311,TOTVS,Software Developer,"Funcionário(a) atual, menos de um ano",Nenhuma por enquanto até agora satisfeito.,17 de set. de 2021,4.0,0,0,0,0,1
+35157296,TOTVS,Engenheiro De Software,Ex-funcionário(a),Nada super relevante que me lembro agora,21 de ago. de 2020,4.0,0,0,0,0,2
+52647117,TOTVS,Analista De Suporte II,"Ex-funcionário(a), mais de 8 anos",Não identifiquei problemas enquanto estive lá,16 de set. de 2021,5.0,0,0,0,0,0
+80327644,TOTVS,Executivo De Soluções De Negócios,Funcionário(a) atual,Não percebi ainda nenhum contra,22 de set. de 2023,5.0,0,0,0,0,0
+59148885,TOTVS,Consultor De Negócios Sênior,"Funcionário(a) atual, menos de um ano",Ainda não consegui ver nada contra.,5 de fev. de 2022,4.0,0,0,0,0,0
+54268465,TOTVS,Técnico,"Funcionário(a) atual, mais de 3 anos",Não tem contras sobre isso,20 de out. de 2021,5.0,0,0,0,0,0
+62922475,TOTVS,Analista De Prospecção,"Funcionário(a) atual, menos de um ano",Ainda não enxerguei. Espero não encontrar.,18 de abr. de 2022,5.0,0,0,0,0,0
+84630605,TOTVS,Product Designer,"Funcionário(a) atual, menos de um ano",- Não identifiquei até o momento,22 de fev. de 2024,5.0,0,0,0,0,0
+26658711,TOTVS,Analista De Sistemas Pleno,Funcionário(a) atual,"Uma multinacional brasileira, com grandes desafios.",21 de mai. de 2015,3.0,0,0,1,1,0
+40453642,TOTVS,Analista de Sistemas Sênior,Ex-funcionário(a),Não observei nada contra trabalhar na Totvs.,11 de jan. de 2021,5.0,0,0,0,0,0
+78108981,TOTVS,Analista De Sistemas,"Funcionário(a) atual, mais de 3 anos",Ainda não tenho o que reclamar,10 de jul. de 2023,5.0,0,0,0,0,0
+40426850,TOTVS,Funcionário confidencial,"Funcionário(a) atual, menos de um ano",Sou novo então não tenho opinião formada ainda,11 de jan. de 2021,4.0,0,0,0,0,0
+50147363,TOTVS,Analista De Qualidade Pleno,"Funcionário(a) atual, mais de 3 anos",Não tenho o que reclamar,22 de jul. de 2021,5.0,0,0,0,0,0
+42706157,TOTVS,ESN,Funcionário(a) atual,Não tenho nada contra o trabalho na totvs,18 de fev. de 2021,5.0,0,0,0,0,0
+84791672,TOTVS,Consultor De Negócios,"Funcionário(a) atual, menos de um ano","Na minha visão, não há",27 de fev. de 2024,5.0,0,0,0,0,0
+74548197,TOTVS,Analista De Suporte Ao Usuário,"Funcionário(a) atual, menos de um ano",Nenhum pro consigo enchergar nesta empresa,15 de mar. de 2023,1.0,0,0,0,0,0
+49018057,TOTVS,Funcionário confidencial,Funcionário(a) atual,Nada a declarar sobre a empresa Totvs.,28 de jun. de 2021,4.0,0,0,0,0,0
+77346347,TOTVS,Sccm Consultant,"Ex-funcionário(a), mais de 3 anos",Nada contra a empresa citada,13 de jun. de 2023,5.0,0,0,0,0,0
+26608318,TOTVS,Funcionário confidencial,Funcionário(a) atual,Não tem pontos negativos no meu modo de ver,11 de jan. de 2015,5.0,0,0,0,0,0
+84489041,Sankhya Gestão de Negócios,Product Operations Manager,Funcionário(a) atual,Não tem o que comentar,18 de fev. de 2024,5.0,0,0,0,0,0
+79552981,TOTVS,Análise De Negócios,"Funcionário(a) atual, mais de 10 anos",Neste momento não há contras,28 de ago. de 2023,5.0,0,0,0,0,0
+65250601,TOTVS,Técnico em desenvolvimento de software,"Funcionário(a) atual, mais de um ano",Nada contra a empresa em si,8 de jun. de 2022,5.0,0,0,0,0,0
+79567064,TOTVS,Especialista De Dados,"Funcionário(a) atual, mais de um ano",Sem pontos negativos por hora.,28 de ago. de 2023,5.0,0,0,0,0,0
+74763810,Sankhya Gestão de Negócios,Executivo Comercial,"Funcionário(a) atual, menos de um ano","Não existe algo que desabone uma empresa como a Sankhya, pois realmente os gestores estãos empre buscando evoluir",22 de mar. de 2023,5.0,0,0,0,0,0
+73690861,TOTVS,Gerente,Funcionário(a) atual,Não tenho palavras para descrever,16 de fev. de 2023,5.0,0,0,0,0,1
+63968871,TOTVS,Assistente de Relações Humanas,"Funcionário(a) atual, mais de um ano","VR com valor abaixo pela região do escritório, porém o cartão Alelo Tudo tem fácil aceitação em grande parte dos estabelecimentos.",11 de mai. de 2022,5.0,0,0,1,0,0
+75694248,TOTVS,Analista Pleno,"Funcionário(a) atual, mais de um ano",O salário era na media e o beneficio era o básico,20 de abr. de 2023,1.0,0,1,1,1,0
+26879148,TOTVS,Consultor Sênior,"Ex-funcionário(a), mais de 2 anos","Paga bem, porque você faz tudo. Você fica largado e faz o que quiser, precisa ser autodidata e sangue frio pra ouvir muitas críticas que você nem sempre pode resolver.",31 de jul. de 2017,3.0,0,0,0,2,0
+75855057,TOTVS,Analista I,"Funcionário(a) atual, mais de 10 anos","Nada a declarar, pois é muito mais do que muitas outras",26 de abr. de 2023,5.0,0,0,0,0,0
+28545263,TOTVS,Infraestrutura,"Funcionário(a) atual, menos de um ano",Não vejo desvantagem na empresa,9 de ago. de 2019,5.0,0,0,0,0,1
+75813739,TOTVS,Executivo De Soluções De Negócios,Funcionário(a) atual,Não tem algo que gere problema.,25 de abr. de 2023,4.0,0,0,0,0,0
+80801481,Sankhya Gestão de Negócios,Desenvolvedor Sênior,Funcionário(a) atual,"Tem muita tecnologia antiga, mas é bom de mexer",9 de out. de 2023,5.0,0,1,1,1,0
+80428720,TOTVS,Arquiteto De Software,"Funcionário(a) atual, menos de um ano",Não identifiquei nenhum aspecto negativo ainda...,26 de set. de 2023,5.0,0,0,0,0,0
+79638337,TOTVS,Analista Pleno,Funcionário(a) atual,Por enquanto nada a declarar,30 de ago. de 2023,5.0,0,0,0,0,0
+27150514,TOTVS,Diretor De Soluções De Negócios,Funcionário(a) atual,Nada de relevante. ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------,27 de out. de 2016,5.0,0,0,0,0,0
+71170273,TOTVS,Consultor De Vendas,"Funcionário(a) atual, menos de um ano","Nenhum. Eu sei que o que é tão bom assim, faz parte e dá pra a gente se adaptar.",17 de nov. de 2022,5.0,0,0,0,0,0
+80749009,TOTVS,Analista De Sistemas Desenvolvedor,Funcionário(a) atual,"O contra é somente a localidade, porém pra que mora fora da zona norte de São Paulo Mas, atualmente não é bem problema, pois a empresa optou por home office",7 de out. de 2023,5.0,0,0,0,0,0
+71343239,TOTVS,Analista Sênior,"Funcionário(a) atual, mais de 8 anos",No meu caso creio que a remuneração poderia ser melhor porém o que ganho está sendo suficiente por enquanto.,23 de nov. de 2022,5.0,0,0,0,0,0
+76027657,TOTVS,Analista De Sistemas,Ex-funcionário(a),Nenhum contra essa empresa na epoca,2 de mai. de 2023,5.0,0,0,0,0,0
+74282345,TOTVS,Consultor De Projetos,Funcionário(a) atual,Não se aplica a esta empresa.,7 de mar. de 2023,4.0,0,0,0,0,0
+64759784,TOTVS,Analista Pleno,"Funcionário(a) atual, mais de 5 anos",não tenho nada a acrescentar sobre este ponto,27 de mai. de 2022,5.0,0,0,0,0,0
+51493979,TOTVS,UX%2FUI Designer,"Funcionário(a) atual, menos de um ano",Não há ponto negativo até o momento.,23 de ago. de 2021,5.0,0,0,0,0,0
+60401467,TOTVS,Analista De Implantação,Funcionário(a) atual,Não tenho nada a reclamar.,28 de fev. de 2022,5.0,0,0,0,0,0
+75641590,TOTVS,Analista,"Funcionário(a) atual, mais de um ano",Nada a reclamar da empresa,19 de abr. de 2023,5.0,0,0,0,0,0
+78954904,Sankhya Gestão de Negócios,Associate Product Owner,"Funcionário(a) atual, mais de um ano",Nada que me desagrada no momento.,8 de ago. de 2023,5.0,0,0,0,0,2
+26626359,TOTVS,Gestor De Recursos Humanos (RH),Funcionário(a) atual,"Não vejo muitos pontos negativos, uma sugestão de melhoria seria na comunicação, atenção para uma ferramenta que pudesse nos ajudar nisso.",24 de fev. de 2015,4.0,0,0,0,0,0
+26799525,TOTVS,Analista Desenvolvedor,Funcionário(a) atual,"Não observo pontos negativos que sejam diferentes dos já existentes no mercado de trabalho. Trabalhamos com cerca de 4 mil colaboradores, isso torna inevitável em qualquer ambiente de trabalho, a existência de grupos fechados.",24 de nov. de 2016,3.0,0,0,0,0,0
+69835989,Sankhya Gestão de Negócios,Desenvolvedor,"Funcionário(a) atual, menos de um ano",não tem nada para reclamar ate o momento.,6 de out. de 2022,5.0,0,0,0,0,0
+60099805,TOTVS,Funcionário confidencial,"Ex-funcionário(a), mais de um ano","nenhum contra a empresa, sem nenhum problema",22 de fev. de 2022,5.0,0,0,0,0,0
+69834111,Sankhya Gestão de Negócios,Consultor de Implatação,Funcionário(a) atual,"Até o momento não vejo problemas que sejam considerados ""Contras"".",6 de out. de 2022,5.0,0,0,0,0,0
+69556044,TOTVS,Coordenador,"Funcionário(a) atual, menos de um ano",Nada contra até o momento,28 de set. de 2022,5.0,0,0,0,0,0
+43172549,TOTVS,Analista de Suporte Técnico,"Funcionário(a) atual, menos de um ano",Não encontrei nada a declarar,26 de fev. de 2021,5.0,0,0,0,0,0
+28235473,TOTVS,Consultor De Negócios,"Funcionário(a) atual, mais de um ano","Vejo poucas desvantagens, talvez por eu ser da área de RH acho mais desafiador crescer em uma empresa onde o foco é Tecnologia.. rs",25 de jul. de 2019,5.0,0,0,0,0,0
+68751333,TOTVS,Analista De Qualidade Pleno,"Funcionário(a) atual, menos de um ano",Não tem nada que eu vejo contra a empresa.,6 de set. de 2022,5.0,0,0,0,0,0
+66820947,TOTVS,Assistente Administrativo,"Funcionário(a) atual, menos de um ano",Não tenho o que reclamar,18 de jul. de 2022,5.0,0,0,0,0,0
+48823392,TOTVS,Analista De Sistemas,Funcionário(a) atual,Não vejo tenho nada contra.,24 de jun. de 2021,4.0,0,0,0,0,0
+81251378,TOTVS,Analista Pleno,Funcionário(a) atual,sem mais detalhes sobre o tema,25 de out. de 2023,4.0,0,0,0,0,0
+69453618,Sankhya Gestão de Negócios,Analista Comercial I,Funcionário(a) atual,Até o momento não achei nada que possa desabonar a empresa.,26 de set. de 2022,5.0,0,0,0,0,0
+29288180,TOTVS,Vendas,"Ex-funcionário(a), mais de 8 anos","Acredito da solução de ERP e suas verticais sem falar no potencial dos profissionais que fazem parte da TOTVS, por isso não tenha nada contra para citar da mesma.",17 de set. de 2019,5.0,0,0,0,0,0
+28701348,TOTVS,Analista De Sistemas,"Ex-funcionário(a), mais de um ano",Não consigo encontrar agora um motivo de desvantagem,18 de ago. de 2019,5.0,0,0,0,2,2
+75852916,TOTVS,Consultor Pleno,"Funcionário(a) atual, mais de 3 anos",Não vejo pontos contras na TOTVS,26 de abr. de 2023,5.0,0,0,0,0,0
+61948501,TOTVS,Software Engineer,"Funcionário(a) atual, mais de um ano","Não vejo muitos contras, pelo menos na área em que trabalho",29 de mar. de 2022,5.0,0,0,0,0,0
+26595627,TOTVS,Analista De Sistemas II,Funcionário(a) atual,"O plano de saúde é bom, mas poderia ser melhor.",18 de out. de 2014,5.0,0,0,1,2,0
+75503582,TOTVS,Gerente,"Funcionário(a) atual, mais de um ano",Não tenho apontamentos contra a empresa,14 de abr. de 2023,5.0,0,0,0,0,0
+50284565,TOTVS,Analista De Sistemas Pleno,Ex-funcionário(a),Não tenho nada a declarar.,26 de jul. de 2021,4.0,0,0,0,0,0
+64601172,TOTVS,Developer,Funcionário(a) atual,otima empresa para se trabalhar,24 de mai. de 2022,5.0,1,1,1,1,1
+29826450,TOTVS,Analista,"Ex-funcionário(a), mais de um ano","Boa empresa , para aprendizado.",15 de out. de 2019,3.0,1,1,1,1,1
+52604246,TOTVS,Analista De Implantação Especialista,"Funcionário(a) atual, mais de 5 anos","A Totvs oferece bastante benefícios que ajudam o colaborador como por exemplo auxílio maternidade, auxílio jurídico, auxílio financeiro...etc.",15 de set. de 2021,4.0,1,1,1,1,0
+71324871,TOTVS,Analista De Implantação,"Ex-funcionário(a), mais de um ano",Ótimo aprendizado em meio as dificuldades.,23 de nov. de 2022,3.0,1,1,1,1,1
+73803692,TOTVS,Analista,"Ex-funcionário(a), mais de 5 anos","Sem, pontos negativos, somente experiência boas",20 de fev. de 2023,5.0,1,1,1,1,0
+27353338,TOTVS,Analista Suporte,Funcionário(a) atual,"Ambiente de trabalho e espaço físico são muito bons, a tecnologia desenvolvida pela empresa é uma das maiores do pais e o ERP muito utilizado no mercado por diversas empresas",9 de abr. de 2019,4.0,1,1,1,1,1
+26879331,TOTVS,Consultor Sênior,Funcionário(a) atual,Estrutura muito boa. Boas pessoas para se trabalhar. Diretores são acessíveis e abertos à dialogo. Oportunidades claras de crescimento e desenvolvimento dentro da empresa.,31 de jul. de 2017,4.0,1,1,1,1,1
+32854319,TOTVS,Técnico de infraestrutura em TI,Ex-funcionário(a),"Oportunidade, benefícios, VA, VR, convênio médico.",23 de abr. de 2020,5.0,1,1,1,1,0
+77485465,TOTVS,Analista De Sistemas,"Funcionário(a) atual, mais de um ano",- Bom benefícios; - HOME OFFICE; - Ambiente Amigável;,18 de jun. de 2023,4.0,1,1,1,1,0
+27662904,TOTVS,Funcionário confidencial,Funcionário(a) atual,Bons benefícios.  Disponibilidade de home office.,27 de jun. de 2019,4.0,1,1,1,1,1
+70294133,TOTVS,Analista III de Desenvolvimento de Software,"Ex-funcionário(a), menos de um ano","Salário compatível com a função, oportunidades de crescimento, feedback contínuo, plano de previdência.",19 de out. de 2022,5.0,1,1,1,1,0
+30797159,TOTVS,Técnico De Suporte,"Funcionário(a) atual, mais de um ano","Por hora, nenhuma reclamação, estou satisfeito com o que me é oferecido.",10 de dez. de 2019,5.0,1,1,1,1,1
+74248817,TOTVS,Advogado Sênior II,Ex-funcionário(a),"Clima, ambiente e trabalho em equipe.",6 de mar. de 2023,5.0,1,1,1,1,0
+46080492,TOTVS,Gerente De Customer Success,Funcionário(a) atual,"Ambiente dinâmico
+
+Possibilidade de novos desafios dentro da empresa
+
+Equilíbrio vida pessoal e trabalho
+
+Constantes oportunidades de aprendizado
+
+Reconhecimento financeiro",26 de abr. de 2021,5.0,1,1,1,1,0
+27099018,TOTVS,Técnico Em Suporte Técnico,Funcionário(a) atual,"Empresa que valoriza os funcionários e apresenta a proposta de um espaço aberto para trabalho, deveria ser referência à outras empresas do ramo de tecnologia.",12 de nov. de 2018,5.0,1,2,1,2,0
+61150465,TOTVS,Especialista De Sistemas,Funcionário(a) atual,"Referência no mercado para sistemas para o Mercado de Capitais
+Cultura e valores",14 de mar. de 2022,4.0,1,1,1,1,0
+78856463,TOTVS,Consultor De Negócios Pleno,"Funcionário(a) atual, mais de um ano","Ambiente colaborativo, ciclo de performance funciona bem e há possibilidade de crescimento a cada 6 meses.",4 de ago. de 2023,5.0,1,1,1,1,0
+26615496,TOTVS,Analista,Ex-funcionário(a),"Excelente pacote de benefícios, autonomia para desenvolver as atividades e o ambiente de trabalho proporciona grandes oportunidades de aprendizado.",24 de jan. de 2015,4.0,1,1,1,1,1
+68251640,TOTVS,Analista De Desenvolvimento De Software I,Funcionário(a) atual,"Salario acima da média, ótimos benefícios",23 de ago. de 2022,5.0,1,1,1,1,1
+74768680,Sankhya Gestão de Negócios,Sales Development Representative (SDR),"Ex-funcionário(a), mais de um ano","Cultura, excelentes benefícios sem descontos em folha, investimento em aprendizado, pertencimento, COOs acessíveis, ambiente colaborativo, convenções produtivas e descontraídas, inclusão etc...",22 de mar. de 2023,4.0,1,1,1,1,1
+26969469,TOTVS,Analista De Sistemas,Funcionário(a) atual,"A TOTVS - CIANORTE está em desenvolvimento no mundo TOTVS, crescendo a cada dia, trazendo a Cultura e o profissionalismo da multinacional, assim como as possibilidades para os funcionários e os cuidados com os clientes.",15 de fev. de 2018,4.0,1,1,1,1,0
+71518605,TOTVS,Product Manager,"Ex-funcionário(a), mais de um ano",Empresa grande com estrutura de processos.,30 de nov. de 2022,4.0,1,1,1,1,0
+37224750,TOTVS,Analista Senior De Marketing,"Funcionário(a) atual, mais de 8 anos","Empresa Íntegra, Consolidada e preocupada com o participante",16 de out. de 2020,5.0,1,1,1,1,0
+27077071,TOTVS,Analista De Sistemas Pleno,"Ex-funcionário(a), mais de 9 anos","Flexibilidade de horário, ambiente agradável, você sente que faz parte do time e não apenas um empregado executando tarefas, desafios, amplas áreas e atividades para trabalhar.",9 de out. de 2018,4.0,1,1,1,1,0
+49226325,TOTVS,Analista De Testes I,"Funcionário(a) atual, menos de um ano","Equipe boa
+Empresa boa para quem está começando na área",2 de jul. de 2021,3.0,1,1,1,1,1
+71605017,Sankhya Gestão de Negócios,Analista De Projetos,"Funcionário(a) atual, mais de 5 anos","Horário flexível, lideranças bem preparadas para condução de equipes, boa remuneração, ambiente bacana e diverso. Foco em desenvolvimento contínuo.",4 de dez. de 2022,5.0,1,1,1,1,0
+73553331,TOTVS,Coordenador Ofertas,"Funcionário(a) atual, mais de 8 anos",Excelente Empresa com grandes benefícios e ótimo ambiente de trabalho.,12 de fev. de 2023,5.0,1,1,1,1,1
+32774950,TOTVS,Analista III de Desenvolvimento de Software,"Funcionário(a) atual, menos de um ano","Ambiente de trabalho muito bom.
+
+Oportunidade de apredizado através de cursos.
+
+Tecnologias de ponta.
+
+Projetos desafiadores
+
+Gestores competentes e muito profissionais.",17 de abr. de 2020,5.0,1,1,1,1,1
+27052160,TOTVS,Analista De Sistemas Desenvolvedor,Funcionário(a) atual,É uma multinacional com oportunidades de trabalho em diversos contratos e para diversos clientes. Também possui um plano de carreira interessante.,30 de ago. de 2018,4.0,1,1,1,1,0
+81368835,TOTVS,Especialista I de Backend,Funcionário(a) atual,"Diversidade de stacks, flexibilidade de horários.",29 de out. de 2023,5.0,1,1,1,1,0
+56613831,TOTVS,Funcionário confidencial,"Ex-funcionário(a), mais de um ano","Ambiente descontraído
+Ótimo Trabalho em equipe
+Cultura
+Home office",13 de dez. de 2021,4.0,1,1,1,1,1
+30292559,TOTVS,Consultor De Negócios Júnior,"Funcionário(a) atual, menos de um ano","Os benefícios são bons. VR em torno de R$26, plano de saúde com coparticipação, plano dental, previdência privada, PL, VT, gympass.",9 de nov. de 2019,4.0,1,1,1,1,0
+83619207,Sankhya Gestão de Negócios,Consultor Comercial,"Funcionário(a) atual, mais de 8 anos","Empresa em altissimo crescimento coordenada em campinas, sp por pessoas realmente humanas e que acreditam no potencial, sem deixarem o funcionario com excesso de ocupação.",22 de jan. de 2024,5.0,1,1,1,1,0
+72874603,TOTVS,Técnico De Desenvolvimento De Software,Funcionário(a) atual,Empresa que se preocupa com o bem estar os funcionários e possui um plano de carreira bem definido e benefícios muito atraentes.,22 de jan. de 2023,5.0,1,1,1,1,1
+66936076,TOTVS,Analista III,Funcionário(a) atual,"Flexibilidade
+Benefícios
+Oportunidades de aprendizado
+Ambiente de trabalho",20 de jul. de 2022,5.0,1,1,1,1,0
+81186999,TOTVS,Analista De Negócios Sênior,"Funcionário(a) atual, mais de 3 anos","Salário, Benefícios, Flexibilidade, Liberdade criativa.",23 de out. de 2023,5.0,1,1,1,1,0
+74276398,TOTVS,Analista de Desenvolvimento Pleno 2,"Funcionário(a) atual, mais de 3 anos","Ótima empresa, ótima infraestrutura, boa equipe.",7 de mar. de 2023,3.0,1,1,1,1,1
+26600440,TOTVS,Coordenador De Sistemas,Funcionário(a) atual,Adoro esta empresa por ser desafiadora e cheia de oportunidades,24 de nov. de 2014,5.0,1,1,1,1,1
+77125570,TOTVS,Analista De Customer Success Pleno,Funcionário(a) atual,"Clima Bom, Transparência, Flexibilidade horário fácil acesso a gestão.",6 de jun. de 2023,4.0,1,1,1,1,1
+26817726,TOTVS,Assistente De Facilities,"Ex-funcionário(a), menos de um ano","Bons benefícios, além de vale refeição e transporte, tem previdência privada, seguro de vida e plano de saúde e odontológico. Para algumas áreas o salário é acima do mercado.",26 de jan. de 2017,3.0,1,1,1,1,0
+40045098,TOTVS,Assistente Administrativo,Ex-funcionário(a),"Desenvolvimento de carreira através do esforço e entregas
+
+Flexibilidade",3 de jan. de 2021,4.0,1,1,1,1,0
+63534285,TOTVS,Analista De Desenvolvimento Júnior,Funcionário(a) atual,"nada contra, eu amo trabalhar nessa empresa.",2 de mai. de 2022,5.0,1,0,1,0,1
+27458837,TOTVS,Assistente Administrativo,Ex-funcionário(a),"a empresa dava boas chances de crescimento, pagamento em dia (salário é benefícios), bom ambiente de trabalho e benefícios, fretado, horário de trabalho flexível.",4 de jun. de 2019,4.0,1,1,1,1,0
+49117750,TOTVS,Analista De Projetos Sênior,"Funcionário(a) atual, mais de 5 anos",otimo ambiente para aprender e se desenvolver,30 de jun. de 2021,4.0,1,1,1,1,1
+27378917,TOTVS,Analista De Negócios I,Funcionário(a) atual,"Benefícios Odontológico Plano de saúde Farmácia Horario flexível Dinamismo Você é você, não existe qualquer tipo de discriminação e ofensa.",17 de mai. de 2019,3.0,1,1,1,1,0
+49020372,TOTVS,Gerente De Desenvolvimento De Software,Funcionário(a) atual,Empresa estável e com plano de carreira.,28 de jun. de 2021,4.0,1,1,1,1,0
+75377981,TOTVS,Analista De Desenvolvimento Pleno,Funcionário(a) atual,A cultura da TOTVS é inspiradora e motivadora no dia a dia. Os líderes reconhece o esforço e desempenho no trabalho.,11 de abr. de 2023,5.0,1,1,1,1,1
+26696577,TOTVS,Coordenador De Projetos,Funcionário(a) atual,Excelentes beneficios pela empressa,31 de ago. de 2015,3.0,1,1,1,1,1
+27151362,TOTVS,Analista De Sistemas Júnior,Funcionário(a) atual,"Vejo como principais pontos da companhia o pensamento estratégico, a abertura para a inovação que está tendo agora, as oportunidades de aprendizado além do dia a dia.",23 de dez. de 2016,3.0,1,1,1,1,0
+52953704,TOTVS,Analista De Sistemas,"Funcionário(a) atual, mais de 5 anos","Flexibilidade, oportunidade de crescimento, home office, mudança de area.",22 de set. de 2021,2.0,1,1,1,1,0
+28115190,TOTVS,Funcionário confidencial,Ex-funcionário(a),"Bom salário, grande e renomada empresa. Muita possibilidade de aprendizado.",19 de jul. de 2019,2.0,1,1,1,1,1
+26794212,TOTVS,Gerente,Funcionário(a) atual,"Espirito inovador, em constante mudança buscando melhorias, remuneração em linha com padrões do mercado, benefícios muito bons (exemplo do plano de saúde). Ambiente agradável e desafiador.",27 de out. de 2016,4.0,1,1,1,1,1
+26753953,TOTVS,Assistente Administrativo,"Ex-funcionário(a), mais de 4 anos","Bom ambiente e colegas de trabalho, liberdade ao espaço para café, liberdade de vestimenta, remuneração e benefícios satisfatórios, comemoração típica em feriados, horário flexível, comemoração de aniversário, igualdade entre funcionários.",15 de mar. de 2016,4.0,1,1,1,1,0
+27632328,TOTVS,Analista Desenvolvedor,Funcionário(a) atual,A empresa investe muito na qualificação dos profissionais e tem um ambiente de trabalho muito agradável. Tem um sistema de bonificação que estimula o funcionário a buscar sempre mais.,18 de jun. de 2019,4.0,1,1,1,1,1
+31975602,TOTVS,Analista De Sistemas Pleno,"Ex-funcionário(a), mais de 5 anos",Muito boa empresa para desenvolver o lado profissional,20 de fev. de 2020,5.0,1,1,1,1,1
+60193182,TOTVS,Consultora De Vendas Pleno,"Ex-funcionário(a), mais de um ano",Empresa com ótimas oportunidade de crescimento. Otimos salários.,23 de fev. de 2022,4.0,1,1,1,1,1
+26705455,TOTVS,Funcionário confidencial,Funcionário(a) atual,Estrutura e qualidade de vida no trabalho.,28 de set. de 2015,3.0,1,1,1,1,0
+26757858,TOTVS,Analista De Suporte Técnico,Funcionário(a) atual,"Vasta experiência adquirida, independentemente da área ou cargo exercido. Oportunidades de crescimento e estabilidade na empresa. Possibilidade de job rotation de acordo ocm a experiência adquirida.",11 de abr. de 2016,3.0,1,1,1,1,0
+27355682,TOTVS,Vendedor Comercial,Funcionário(a) atual,"Acima da média brasileira , ambiente favorável e meritocracia aplicada .localizacao favorável e uma gama enorme de produtos à disposição para melhorar sua performance nas vendas",12 de abr. de 2019,5.0,1,1,1,1,0
+83238341,Sankhya Gestão de Negócios,Assistente De Serviços,Ex-funcionário(a),"Ótima comunicação, empresa de pessoas",10 de jan. de 2024,4.0,1,1,1,1,1
+27022465,TOTVS,Funcionário confidencial,Funcionário(a) atual,"Empresa dinâmica, com muitas oportunidades e desafios. Varias áreas relacionadas a sodtwate, muitos clientes. Salario competitivo com o mercado.",29 de mai. de 2018,4.0,1,1,1,1,1
+68930810,TOTVS,Team Leader,Funcionário(a) atual,"Valorização das pessoas, bom ambiente, pagamento de PLR",11 de set. de 2022,5.0,1,1,1,1,0
+28987141,TOTVS,Analista De Desenvolvimento,"Funcionário(a) atual, mais de um ano","Horário flexível, espaço de lazer, lanchonete no local.",2 de set. de 2019,5.0,1,1,1,1,0
+68614772,TOTVS,GERENTE ADMINISTRATIVO FINANCEIRO,Funcionário(a) atual,É uma empresa sensacional. Não vejo contras a informar.,1 de set. de 2022,5.0,1,0,1,0,1
+76214690,TOTVS,APN Agente de prospecção de negócios,"Ex-funcionário(a), menos de um ano",É uma empresa MARAVILHOSA para se trabalhar.,8 de mai. de 2023,5.0,1,1,1,1,1
+26850637,TOTVS,Analista De Infraestrutura Sênior,Funcionário(a) atual,"Clima organizacional Excelente, a empresa é jovem e possui uma grande flexibilidade com os seus processos. A infraestrutura de trabalho é diferenciada do mercado.",9 de mai. de 2017,5.0,1,1,1,1,1
+74514129,TOTVS,Analista De Dados Sênior,"Funcionário(a) atual, mais de 8 anos",Possui uma cultura muito boa e benefícios também.,14 de mar. de 2023,5.0,1,1,1,1,1
+49938258,TOTVS,Assistente Comercial,Funcionário(a) atual,Ter uma experiência na Totvs na carteira é muito vantajoso,18 de jul. de 2021,3.0,1,1,1,1,2
+70224782,TOTVS,Analista De Serviços Sênior,"Funcionário(a) atual, mais de 8 anos","Liberdade de horários, conhecimento amplo de diversos setores e segmentos, ampliação de network.",17 de out. de 2022,5.0,1,1,1,1,0
+60969298,TOTVS,Designer,Funcionário(a) atual,"Muitos desafios engajantes, visibilidade e reconhecimento.",11 de mar. de 2022,5.0,1,1,1,1,0
+72992605,TOTVS,Sales Development Representative (SDR),"Ex-funcionário(a), mais de um ano",- Ambiente legal - Pessoas interessadas em te ajudar,25 de jan. de 2023,4.0,1,1,1,1,0
+48480744,TOTVS,Desenvolvedor Júnior,Funcionário(a) atual,"Local bom de trabalhar, bons benefícios e plano de carreira.",17 de jun. de 2021,5.0,1,1,1,1,1
+26586054,TOTVS,Analista De Sistemas,"Ex-funcionário(a), mais de 3 anos",A empresa é ótima. Foi uma escola onde desenvolvi minhas habilidades em programação AdvPL e tive espaço para aplicar os conhecimentos,1 de ago. de 2014,2.0,1,1,1,1,1
+70379365,TOTVS,Analista De Sistemas Pleno,"Funcionário(a) atual, mais de um ano",Equipe muito boa; Sempre tentando melhorar; Abertos a conversas.,21 de out. de 2022,5.0,1,1,1,1,1
+49144428,TOTVS,Analista De Serviços,"Ex-funcionário(a), mais de um ano","Boa empresa para se trabalhar, como é imcorporada, tem todos os benefícios da matriz em SP",30 de jun. de 2021,4.0,1,1,1,1,1
+66416541,TOTVS,Analista III de Desenvolvimento de Software,"Ex-funcionário(a), mais de 3 anos","Boa empresa, ambiente descontraido, bons funcionários...",7 de jul. de 2022,3.0,1,1,1,1,1
+26718599,TOTVS,Analista De Sistemas Pleno,Funcionário(a) atual,"Da treinamentos, se preocupam com o bem estar dos funcionários",1 de nov. de 2015,3.0,1,1,1,1,0
+26743845,TOTVS,Gerente De Projetos (GP),Funcionário(a) atual,"Flexibilidade de horário, trabalho dinâmico, muitos benefícios, remuneração compatível com mercado",17 de jan. de 2016,4.0,1,1,1,1,0
+81983755,TOTVS,Analista Júnior,"Funcionário(a) atual, mais de 5 anos","Salário
+Benefícios
+Ambiente
+Modelo de trabalho home office",21 de nov. de 2023,4.0,1,1,1,1,0
+30871036,TOTVS,Funcionário confidencial,Funcionário(a) atual,"Ambiente descontraído.
+
+Nada mais a informar.",14 de dez. de 2019,3.0,1,1,1,1,2
+51607129,TOTVS,Analista De Serviços II,"Funcionário(a) atual, mais de 3 anos",Empresa boa para trabalhar e para fazer carreira,25 de ago. de 2021,5.0,1,1,1,1,1
+70374532,Sankhya Gestão de Negócios,Executivo Comercial,"Funcionário(a) atual, menos de um ano",Protragonísmo para o crescimento e continuidade de desenvolvimento pessoal.,21 de out. de 2022,5.0,1,1,2,2,0
+80471160,TOTVS,Web Developer,"Funcionário(a) atual, menos de um ano",Muita pressão desnecessaria para dev jr,27 de set. de 2023,5.0,2,2,2,2,2
+82532338,TOTVS,Analista De Negócios Pleno,"Funcionário(a) atual, mais de 3 anos","Crescimento, Crescimento, Crescimento, Crescimento, Crescimento,",12 de dez. de 2023,4.0,2,2,2,2,0
+28893524,TOTVS,Funcionário confidencial,Funcionário(a) atual,Plano de carreira deixa a desejar,28 de ago. de 2019,4.0,2,2,2,2,1
+27060239,TOTVS,Gerente,Funcionário(a) atual,"Rotatividade, apesar do investimento no capital humano, a empresa tem que achar uma forma de fidelizar evitando a perda do capital intelectual adquirido ao longo do tempo",12 de set. de 2018,5.0,2,2,2,2,0
+80113724,Sankhya Gestão de Negócios,Funcionário confidencial,"Ex-funcionário(a), mais de um ano","O problema no Rio de Janeiro é que é uma espécie de franquia e lá há problemas sérios de gestão. Talvez os clientes estejam satisfeitos, pois não sentem ou saibam que é um business partners, mas os funcionários sofrem por lá. Sabem vender e entregam um bom serviço, mas em gestão de pessoas são ruins.",15 de set. de 2023,3.0,2,2,0,2,2
+63443472,TOTVS,Analista De Negócios II,"Funcionário(a) atual, mais de 3 anos","Os benefícios poderiam ser reavaliados, na minha opinião estão abaixo do mercado.",29 de abr. de 2022,5.0,2,2,2,2,2
+27735921,TOTVS,Funcionário confidencial,Funcionário(a) atual,Tem vários benefícios e não trabalha final de semana.,1 de jul. de 2019,3.0,2,2,1,1,0
+27112261,TOTVS,Consultor Sênior,Funcionário(a) atual,Talvez remuneração na clt acho que e muito pouco que pagam e como pj alguns percentuais são ate bons mas vc fica dependendo de eles te arrumarem agenda,4 de dez. de 2018,5.0,2,0,0,2,0
+27132222,TOTVS,Analista De Negócios,Funcionário(a) atual,"Falta reconhecimento, a busca por resultados traz falta de qualidade de vida, promoções são um dificuldade por conta da troca de gestão, onde os feedbacks são perdidos e você começa do 0 sempre. Convênio médico se você tiver filhos prepare-se pois boa parte de seus vencimentos ficam para pagar o convênio e sua coparticipação, tem o benefício do VR mas você também vai pagar por ele!",15 de jan. de 2019,3.0,2,2,2,2,0
+59599838,TOTVS,Analista De Desenvolvimento Pleno,"Funcionário(a) atual, mais de um ano",Os salários ainda não estão tão atraentes,13 de fev. de 2022,5.0,2,2,2,2,0
+27142136,TOTVS,Especialista De Sistemas II,"Ex-funcionário(a), mais de um ano","Péssimo ambiente de trabalho, principalmente se você não fica na ""matriz"". Diz ser a sexta maior empresa de software do mundo, mas de acordo com suas práticas, não é muito melhor do que qualquer empresa de fundo de quintal.",20 de mai. de 2015,2.0,2,2,2,2,2
+51744175,TOTVS,Especialista Em TI,Funcionário(a) atual,"Plano carreira
+Nao e Full home office",27 de ago. de 2021,5.0,2,2,2,2,0
+32854319,TOTVS,Técnico de infraestrutura em TI,Ex-funcionário(a),Salário baixo na area de infraestrutura em TI.,23 de abr. de 2020,5.0,2,2,2,2,0
+28125122,TOTVS,Analista De Sistemas Sênior,"Ex-funcionário(a), mais de 8 anos","Empresa pequena, sem chance de crescimento.",19 de jul. de 2019,5.0,2,2,2,2,2
+26950543,TOTVS,Analista Financeiro Pleno,"Ex-funcionário(a), mais de um ano","Nada foi legal, não tínhamos gestão e muito trabalho operacional, manual, não usávamos sistemas, por mais que o negócio da empresa seja esse.",12 de jan. de 2018,1.0,2,2,0,2,2
+30547289,TOTVS,Analista De QA,"Funcionário(a) atual, mais de 3 anos","Nao estimula financeiramente os funcionários.Voce entra fazendo  A , evolui para B. C. D .E.....  e nao te dao o devido salário",24 de nov. de 2019,3.0,2,2,2,2,2
+50183946,TOTVS,Product Owner,Funcionário(a) atual,"Alguns benefícios poderiam ser melhores para serem mais compatíveis com o mercado. Pelo tamanho da empresa, é natural ter algum nível de hierarquização e uma quantidade bastante elevada de trabalho e cobrança.",23 de jul. de 2021,4.0,2,2,2,2,0
+27064462,TOTVS,Coordenador De Projetos,Funcionário(a) atual,"Pode melhorar a padronização entres as plantas, ter mais processos definidos e ser cobrado dos mesmos. Para se dar bem tem que ter relacionamento",18 de set. de 2018,5.0,2,2,2,2,0
+74548197,TOTVS,Analista De Suporte Ao Usuário,"Funcionário(a) atual, menos de um ano","Ruim, atendimento, revisão, produto, ambiente",15 de mar. de 2023,1.0,2,2,2,2,2
+27699711,TOTVS,ANALISTA DE NEGOCIOS SR,"Funcionário(a) atual, mais de 5 anos",Peca no salário além de  muitas viagens.,29 de jun. de 2019,5.0,2,2,2,2,0
+27458837,TOTVS,Assistente Administrativo,Ex-funcionário(a),"a divisão de tarefas na minha área era injusta, uns eram mto cobrados e outros não, mas de maneira geral era uma ótima empresa, só sai por causa da distância, fora isso não tenho queixas.",4 de jun. de 2019,4.0,2,0,0,0,0
+68211600,TOTVS,Analista De Desenvolvimento De Software I,"Ex-funcionário(a), menos de um ano","Salário bem abaixo do mercado para Desenvolvedores, tecnologias defasadas, práticas conservadoras e discrepâncias muito altas de salários para um mesmo cargo/titúlo.",22 de ago. de 2022,4.0,2,2,2,2,2
+73242580,TOTVS,Product Owner,"Ex-funcionário(a), mais de 3 anos",Não ser flexível ao modelo home office,2 de fev. de 2023,5.0,2,2,2,2,0
+59758750,TOTVS,Analista De Suporte,"Ex-funcionário(a), mais de 3 anos",Salário muito abaixo da media das outras empresas da cidade,16 de fev. de 2022,3.0,2,2,2,2,2
+27776878,TOTVS,Analista De Serviços,"Funcionário(a) atual, mais de 3 anos","Dependendo da área que se trabalha, existe uma constante pressão quanto à redução de quadro/ demissões e trabalhar dessa forma não é nada confortável.",3 de jul. de 2019,4.0,2,2,2,2,2
+76076944,TOTVS,Analista De Suporte Técnico,"Funcionário(a) atual, mais de 5 anos","As regras definidas para a Meritocracia não são seguidas, pois, não é necessário ter o mérito, apenas fazer o esperado, com isso, destaco dois pontos principais: 1. Traz aos colaboradores que tiveram grandes entregas (mérito) o sentimento de injustiça; 2. Traz tranquilidade aos colaboradores que entregam o esperado, fazendo com que não tenham interesse em aceitar novos desafios, deixando-os estagnados.",3 de mai. de 2023,5.0,2,2,0,2,0
+55656268,TOTVS,Assistente,"Funcionário(a) atual, menos de um ano","Gestão do medo, Gestão da fofoca",21 de nov. de 2021,1.0,2,2,2,2,0
+26816119,TOTVS,Analista Desenvolvedor,"Ex-funcionário(a), mais de um ano","Em termos de tecnologia, são poucos que trabalham de fato com novidades. A maioria do trabalho é no próprio framework da empresa, que é bem construído, mas em cima de tecnologias relativamente ultrapassadas.",23 de jan. de 2017,4.0,2,2,2,2,0
+26704094,TOTVS,Analista De Sistemas,Funcionário(a) atual,Ter um plano de carreira e não poder honra-lo como promete.,22 de set. de 2015,3.0,2,2,2,2,0
+26768827,TOTVS,Técnico,Funcionário(a) atual,"No meu ponto de vista, deveria ser investido mais nas áreas de desenvolvimento para assim entregarmos produtos de maior qualidade. Somos líderes no small e medium market e poderíamos produzindo melhores softwares.",21 de jun. de 2016,5.0,2,2,0,2,0
+26751135,TOTVS,Consultor De Implantação,Funcionário(a) atual,"Não existe plano de carreira para PJ. Existe muito ""panelinha"" muita gente é promovida sem ter conhecimento necessário.",25 de fev. de 2016,3.0,2,2,2,2,0
+26721293,TOTVS,Funcionário confidencial,Funcionário(a) atual,Desorganização da gerência ao realizar tarefas do cronograma.,2 de nov. de 2015,3.0,2,2,2,2,2
+26747395,TOTVS,Técnico De Serviços,Funcionário(a) atual,"Falta de proximidade entre lideres e subordinados, dificultando reconhecimentos merecidos, salario ligeiramente abaixo do praticado no mercado.",3 de fev. de 2016,4.0,2,2,2,2,2
+63300979,TOTVS,Executiva Comercial,"Funcionário(a) atual, mais de um ano","Remuneração, perspectiva de carreira, descontos de comissão",26 de abr. de 2022,4.0,2,1,1,2,0
+62606405,TOTVS,Consultor Tributário Júnior,Funcionário(a) atual,Liderança às vezes peca um pouco.,11 de abr. de 2022,5.0,2,2,2,2,0
+59158378,TOTVS,Auxiliar Administrativo,"Ex-funcionário(a), menos de um ano",Plano de carreira não tão bem definido,5 de fev. de 2022,3.0,2,2,2,2,2
+27299115,TOTVS,Executivo Comercial,"Ex-funcionário(a), mais de 8 anos","Não há reconhecimento dos funcionários, não existe política de cargos e salários, novos funcionários chegam a ganhar o dobro de funcionários com mais de 5 anos de casa na mesma função. Pessoas com graus de parentesco em condição de subordinados/chefia direta, ocasionando em privilégios.",12 de jan. de 2019,3.0,2,2,2,2,0
+61698008,TOTVS,Analista De Suporte II,Funcionário(a) atual,Atualmente alguns setores em regime hibrido.,24 de mar. de 2022,5.0,2,2,2,2,0
+52045778,TOTVS,Product Designer,"Funcionário(a) atual, mais de um ano",Muita burocracia para qualquer coisa que for fazer.,3 de set. de 2021,5.0,2,2,2,2,2
+26871595,TOTVS,Analista De Desenvolvimento,Funcionário(a) atual,"Processos de desenvolvimento burrocraticos, desvio de função dos desenvolvedores, falta de conversa para definir processos. Falta de analistas para definir impacto dos chamados",17 de jul. de 2017,3.0,2,2,2,2,2
+27678107,TOTVS,Funcionário confidencial,Funcionário(a) atual,Burocracia e lentidão nos processos internos.,28 de jun. de 2019,5.0,2,2,2,2,2
+51515458,TOTVS,Diretor,"Funcionário(a) atual, mais de 8 anos",Salário médio sem grandes benefícios para times operacionais,23 de ago. de 2021,4.0,2,2,2,2,0
+27034633,TOTVS,UX Designer,Funcionário(a) atual,"Por ser uma empresa muito grande, as informações por vezes se perdem e não são transmitidas de forma clara e objetiva, deixando os funcionários confusos sobre para qual caminho a organização está seguindo.",6 de ago. de 2018,4.0,2,2,2,2,2
+34763476,TOTVS,Desenvolvedor De Software Sênior,Ex-funcionário(a),"Avaliações, Plano de Carreira, Hierarquia",10 de ago. de 2020,5.0,2,1,1,2,0
+84086061,TOTVS,Especialista,"Funcionário(a) atual, mais de 5 anos","Os resultados são bons, mas a distribuição fica só no comitê executivo",5 de fev. de 2024,3.0,2,2,1,2,0
+37323276,TOTVS,Líder de Equipe,"Funcionário(a) atual, mais de 5 anos",Falta comunicação entre os times,19 de out. de 2020,4.0,2,2,2,2,2
+41570233,TOTVS,Especialista De Sistemas,Ex-funcionário(a),Atua em inúmeros segmentos com muitos outros softwares e isto deixou o software bem complexo em sua utilização. Fez muitas aquisições de outras empresas de diversos segmentos.,28 de jan. de 2021,4.0,2,2,0,2,0
+26668571,TOTVS,Funcionário confidencial,"Ex-funcionário(a), menos de um ano",Muita cobrança e as vezes os números falam mais forte,19 de jun. de 2015,3.0,2,2,2,2,2
+64632871,TOTVS,Devops,"Funcionário(a) atual, mais de 3 anos",Não é 100% home office.,24 de mai. de 2022,5.0,2,2,2,2,0
+48503269,TOTVS,Funcionário confidencial,"Funcionário(a) atual, mais de um ano","Clima interno estressante, equipe adoecida pelo excesso de exigências, querem tudo para ontem e não esperam o prazo dos processos.",17 de jun. de 2021,4.0,2,2,2,2,2
+53558757,TOTVS,Analista De Sistemas Pleno,Funcionário(a) atual,Acumulo funções - Remuneração - trabalhar fora do horário comercial,5 de out. de 2021,5.0,2,2,2,2,0
+77485465,TOTVS,Analista De Sistemas,"Funcionário(a) atual, mais de um ano","- Falta de entrosamento com outros setores, ex. : Suporte X Desenvolvimento;",18 de jun. de 2023,4.0,2,2,2,2,0
+71324871,TOTVS,Analista De Implantação,"Ex-funcionário(a), mais de um ano","Ambiente com outros profissionais velhos de casa que te podam ao invés de incentivar o seu crescimento, muitas vezes puxam seu tapete.",23 de nov. de 2022,3.0,2,2,2,2,0
+26883315,TOTVS,Líder Técnico,Funcionário(a) atual,"Não dão subisidio academico, as vezes é preciso muita briga pra conseguir alguma coisa, mas no mais tudo funciona legal mesmo quando tempos alguns imprevistos.",10 de ago. de 2017,4.0,2,0,0,0,0
+64337351,TOTVS,Desenvolvedor Júnior,Funcionário(a) atual,Gerente que pega crédito do trabalho dos outros e não reconhece,18 de mai. de 2022,3.0,2,2,2,2,0
+82779118,TOTVS,Analista De CRM Pleno,"Funcionário(a) atual, mais de 5 anos",Salário muito abaixo do mercado,21 de dez. de 2023,4.0,2,2,2,2,2
+29839738,TOTVS,Funcionário confidencial,Funcionário(a) atual,- Infraestrutura da filial é desorganizada.,16 de out. de 2019,5.0,2,2,2,2,2
+80439031,TOTVS,Analista de dados jr,"Funcionário(a) atual, mais de um ano","Muito desorganizada, não valoriza o profissional a ponto de ter uma cultira de plano de carreira",26 de set. de 2023,4.0,2,2,2,2,2
+26584193,TOTVS,Analista De Sistemas,Funcionário(a) atual,"Tem uma gestão de pessoas (RH ) distante de qualquer tratamento humano. Aqui no site SP são extremamente grossos, sem paciência em resolver problemas ou dúvidas.  São arrogantes.",28 de jul. de 2014,2.0,2,2,2,2,2
+41364038,TOTVS,Assistente Administrativo,"Ex-funcionário(a), menos de um ano","Baixo PLR, vale-refeição, oportunidades para assistentes.",25 de jan. de 2021,4.0,2,2,2,2,0
+41177930,TOTVS,Assistente Administrativo,"Funcionário(a) atual, mais de 3 anos",pressão no trabalho além do necessário,21 de jan. de 2021,4.0,2,2,2,2,0
+27042473,TOTVS,Analista,Funcionário(a) atual,O funcionário acaba ficando muito dependente da organização uma vez que a empresa utiliza uma linguagem própria de sistema. Profissionais da área de tecnologia são um pouco restritos quanto ao compartilhamento de informação.,17 de ago. de 2018,4.0,2,2,2,2,0
+26649601,TOTVS,Coordenador De Projetos,Funcionário(a) atual,"Falta de estrutura para desempenhar um bom trabalho; Por isso você tem que enfrentar um leão por dia, no começo é bom para moldar o profissional, mas com o tempo fica muito cansativo e estressante.",23 de abr. de 2015,3.0,2,2,2,2,2
+55373814,TOTVS,Programador Sênior,"Ex-funcionário(a), mais de 5 anos","Era muito distante da minha casa, e em dias de chuva e alagamento na cidade causava um transtorno no meu dia. O trabalho home office ainda não era praticado o que no meu caso foi decisivo na saída pois tinha filho pequeno com problemas de saúde.",15 de nov. de 2021,5.0,2,2,0,2,0
+42599694,TOTVS,Analista de Suporte Técnico,"Funcionário(a) atual, mais de um ano",Salário localização somente isso mesmo,16 de fev. de 2021,5.0,2,2,2,2,0
+26922410,TOTVS,Coordenador De Projetos,"Ex-funcionário(a), mais de 3 anos","Foco errado para Brasília, gestão baseada na realidade de São Paulo e não de Brasília. Plano de saúde não custeia nada dos dependentes, o que onera o salário.",6 de nov. de 2017,3.0,2,2,2,2,2
+49016943,TOTVS,UX Lead,"Funcionário(a) atual, mais de 3 anos","Co-participação da Assistência Médica é alta, principalmente pra quem tem dependentes.",28 de jun. de 2021,5.0,2,1,2,1,0
+57113267,TOTVS,Funcionário confidencial,"Funcionário(a) atual, menos de um ano","Benefícios
+Não aderiram ao modelo home office
+Agrados e comemorações são por conta e bolso da liderança, a empresa não ajuda com nada.",27 de dez. de 2021,4.0,2,2,2,2,0
+67538948,TOTVS,Analista De Suporte De Sistemas,"Funcionário(a) atual, mais de um ano","Demanda bem grande para o salario oferecido, tendo muitas vezes realizar trabalho de analista e não de técnico",4 de ago. de 2022,4.0,2,2,2,2,0
+27773685,TOTVS,Analista De Marketing Pleno,"Funcionário(a) atual, mais de um ano","Muita politicagem, favoritismo na hora de conceder promoções e méritos (aumentos).",3 de jul. de 2019,3.0,2,2,2,2,2
+40997633,TOTVS,Assistente Administrativo,"Funcionário(a) atual, mais de 3 anos","Salário muito abaixo do mercado, dificuldade em promoção, sem plano de carreira.",19 de jan. de 2021,3.0,2,2,2,2,2
+26919769,TOTVS,Analista De Serviços I,Funcionário(a) atual,"Troca de gestão constante. Em um ano de empresa tive 3 gestores diferentes. Acho isso ruim, mas vejo que acontece em busca inovação. Fora isso mas nada de negativo",30 de out. de 2017,5.0,2,0,0,0,2
+66568015,TOTVS,Analista De Marketing,"Ex-funcionário(a), mais de um ano","A área tem um clima pesado, muita pressão, trabalho desenfreado, sem planejamento, organização ou direcionamento. Liderança que não inspira.  Boa parte da empresa usufrui dos benefícios que o RH tem orgulho de anunciar, mas no marketing nada está liberado, inclusive o horário flexível.
+
+Salario, PLR e benefícios fracos, o VR chega ser vergonhoso para uma empresa desse tamanho.",11 de jul. de 2022,1.0,2,2,2,2,2
+81382236,Sankhya Gestão de Negócios,Estágio em UX/UI Design,"Funcionário(a) atual, menos de um ano",O va/vr é menor para o estagiário. Minha equipe era muito boa e respeitosa porém não sei se isso reflete no restante da empresa,30 de out. de 2023,4.0,2,2,0,2,0
+49936311,TOTVS,Analista I De Suporte Técnico,"Ex-funcionário(a), mais de 3 anos","- Liderança péssima
+
+- Falta documentação util
+
+- Não há crescimento e reconhecimento profissional, profissionais de vários setores executando tarefas complexas e não há equiparação salarial",18 de jul. de 2021,4.0,2,2,2,2,2
+75367275,TOTVS,Analista Administrativo,Ex-funcionário(a),Deficiência de plano de carreira,10 de abr. de 2023,4.0,2,2,2,2,0
+26590872,TOTVS,Analista De Negócios,Funcionário(a) atual,"O padrão dos processos não são feito de forma prática, sobrecarregado de função.",20 de set. de 2014,2.0,2,2,2,2,0
+67037988,TOTVS,Executivo De Soluções De Negócios,"Funcionário(a) atual, mais de um ano","- Pelo tamanho da empresa, a burocracia interna acaba sendo um desafio em alguns tramites da venda.",22 de jul. de 2022,4.0,2,2,2,2,2
+26783284,TOTVS,Analista Desenvolvedor Pleno,Funcionário(a) atual,"Questão salarial, plano de carreira que não existe, trabalha com tecnologia antiga e as metas equivocadas e que muitas vezes não são passadas de forma clara, alguns líderes sem capacidade de liderança.",2 de set. de 2016,4.0,2,2,2,2,2
+71282178,TOTVS,Analista Desenvolvedor Sênior,Funcionário(a) atual,valorização gestão fechada processos burocráticos,21 de nov. de 2022,3.0,2,2,2,2,0
+63158633,TOTVS,Gerente De Projetos (GP),Funcionário(a) atual,Falta de compromisso com o funcionário,22 de abr. de 2022,3.0,2,2,2,2,2
+28119116,TOTVS,Funcionário confidencial,Ex-funcionário(a),conservadora na hora de avaliar negócios,19 de jul. de 2019,4.0,2,2,2,2,0
