@@ -1,0 +1,172 @@
+review_id,company,employee_role,employee_detail,review_text,review_date,star_rating,sentiment,annotated
+50539336,Grupo Bom Futuro,Motorista D,Funcionário(a) atual,"Empresa boa, porém falta algumas melhores para os funcionários",2021-08-01,3.0,1,0
+52165795,Amaggi,Funcionário confidencial,"Ex-funcionário(a), mais de 3 anos","Empresa muito boa, tem bons procedimentos internos, salários bons (em alguns casos), tem muita oportunidade interna de aprender e agregar conhecimentos.",2021-09-06,5.0,1,0
+74973659,DSS Tecnologia,Digitador,Funcionário(a) atual,folga dia sim e dia não.,2023-03-28,4.0,1,0
+44377014,"Log, Lab. Inteligência Digital",Analista De Sistemas,Funcionário(a) atual,"Ambiente agradável
+
+Pessoas dedicadas e dispostas a dar seu melhor",2021-03-22,4.0,1,0
+26770042,Cigam Software Corporativo,Implementador,Funcionário(a) atual,"Valorizaçao do funcionário, preocupação com o bem estar, saúde. Avaliam o colaborador pela pessoa e não apenas como numero. Ambiente bom de t",2016-06-28,4.0,1,0
+44788232,Amaggi,Analista,"Funcionário(a) atual, mais de 5 anos",Empresa otima e valoriza funcionarios,2021-03-30,5.0,1,0
+70274520,DSS Tecnologia,Funcionário confidencial,"Funcionário(a) atual, mais de um ano","Gerentes de projeto não ficam no pé, você tem liberdade para trabalhar no cliente",2022-10-18,2.0,1,0
+71276027,Cigam Software Corporativo,Assistente Administrativo,"Funcionário(a) atual, mais de um ano",é uma ótima empresa pra se trabalhar,2022-11-21,5.0,1,0
+68390726,Cigam Software Corporativo,Analista De Marketing Digital,"Funcionário(a) atual, mais de 3 anos","Ambiente de trabalho, flexibilidade de horários, opção de home office, gerência e diretoria sempre acessível.",2022-08-26,5.0,1,0
+68295294,Redeflex,Frentista,Ex-funcionário(a),"ótima equipe, ambiente bom, salario em dia",2022-08-24,3.0,1,0
+56180397,MTI - Empresa Mato-grossense de Tecnologia da Informação ,Estágio Desenvolvimento Java,"Estagiário atual, menos de um ano",Desenvolvendo sistemas para o crescimento do estado de Mato Grosso,2021-12-03,4.0,1,0
+35726303,Totem Treinamento e Consultoria em TI,Funcionário confidencial,"Funcionário(a) atual, menos de um ano","Oportunidade para crescimento, muitos projetos para trabalhar.",2020-09-08,5.0,1,0
+38730109,Abaco Tecnologia de Informação Ltda,Analista de Negócios Pleno,Ex-funcionário(a),"Valoriza o profissional, é uma empresa justa.
+
+Apoia Certificações.",2020-11-25,4.0,1,0
+26800093,Amaggi,Assistente,Funcionário(a) atual,"Pacote de Benefícios, Ambiente de trabalho bom, Transparência com os colaboradores, Estrutura Adequada, Salário compatível com a função, Eventos importantes que contribuem para o crescimento. Como exemplo o dialogo de sustentabilidade.",2016-11-28,4.0,1,0
+27112466,Amaggi,Comprador,Funcionário(a) atual,"Reconhecimento profissional externo ótimo, desenvolvimento de cultura profissional adequada a grandes empresa ,possui programa de auxilio educação e plano de saúde muito bom",2018-12-05,3.0,1,0
+47103149,Amaggi,Operador Industrial,"Ex-funcionário(a), mais de um ano",Empresa seria onde os colaboradores podem participar dos lucros das metas concluídas.,2021-05-18,4.0,1,0
+82855955,Amaggi,Gerente De Compras,"Ex-funcionário(a), mais de 5 anos","É uma empresa grande e bem vista, faz bem para cv",2023-12-26,3.0,1,0
+63081052,DSS Tecnologia,Assistente Administrativo,"Ex-funcionário(a), mais de um ano",Folgas e também Vale Alimentação,2022-04-21,1.0,1,0
+40884082,Redeflex,Assistente De Relacionamento,Ex-funcionário(a),"Empresa muito boa, paga em dias corretos e etc",2021-01-17,4.0,1,0
+41620294,Abaco Tecnologia de Informação Ltda,Analista de Sistemas Sênior,"Funcionário(a) atual, mais de 8 anos","Não atrasa salários, média salarial compatível com o mercado, ótimo ambiente de trabalho, ótimos colegas de trabalho, aprende-se muito devido aos desafios e complexidades que se apresentam no dia a dia.",2021-01-29,4.0,1,0
+66263015,Amaggi,Assistente Administrativo,"Funcionário(a) atual, mais de 10 anos","Ótima empresa para trabalhar, muitas oportunidades de crescimento.",2022-07-04,5.0,1,0
+68659686,Amaggi,Analista Júnior,Ex-funcionário(a),"Oportunidades
+Engajamento
+Ótimo relacionamento
+Bom ambiente
+Bom salário
+Ótimos benefícios",2022-09-02,5.0,1,0
+66620560,Grupo Bom Futuro,Motorista D,"Ex-funcionário(a), menos de um ano","Alelo, plano de saúde, plano odontológico.",2022-07-12,3.0,1,0
+83429978,Amaggi,Supervisor/Coordenador,Funcionário(a) atual,"Vale alimentação
+Plano de saúde
+Plano odontológico
+PPR- Participação nos Lucros",2024-01-16,5.0,1,0
+26628766,Tecnomapas,Analista De Desenvolvimento Pleno,Funcionário(a) atual,"Ambiente de trabalho, intervalos, plano de saúde, odontológico e oferece aulas de inglês para funcionários a um custo moderado.",2015-03-04,3.0,1,0
+76885180,Agenda Assessoria,Recenseador,"Funcionário(a) atual, menos de um ano","Pagamento em dia, apenas um salário em contrato temporário, mas pagavam vale alimentação.",2023-05-29,5.0,1,0
+77565851,Cigam Software Corporativo,Analista Pleno,Funcionário(a) atual,Ambiente Crescimento Conhecimento Treinamento Festas,2023-06-20,5.0,1,0
+55246440,Amaggi,Eletricista De Manutenção,"Ex-funcionário(a), mais de 5 anos",Ótimos benefícios e programa de treinamento muito bom.,2021-11-11,5.0,1,0
+81127912,Amaggi,Coordenador,"Funcionário(a) atual, menos de um ano",Empresa investe bastante para os funcionários trabalhar em segurança.,2023-10-20,4.0,1,0
+26891990,Grupo Bom Futuro,Especialista De Sistemas,Funcionário(a) atual,"Bom ambiente de trabalho, empresa sólida, diversas carreiras, grande oportunidade para adquirir experiência, excelente localização, salários dentro da média.",2017-08-28,4.0,1,0
+68509937,Redeflex,Analista De Requisitos Sênior,"Funcionário(a) atual, menos de um ano",Ambiente de trabalho é bom,2022-08-30,5.0,1,0
+68459990,Cigam Software Corporativo,Sales Executive,"Funcionário(a) atual, mais de 8 anos","Empresa próxima a nossa realidade no quesito união, participação, conteúdos, etc...",2022-08-29,5.0,1,0
+26824451,NBS Informática,Analista De Sistemas Pleno,Funcionário(a) atual,"Oportunidades para apresentar novas ideias, oportunidade de engajamento em projetos de novas tecnologias e experiência com contato em empresas de renome internacional proporcionando grande experiência.",2017-02-13,3.0,1,0
+27057439,Grupo Bom Futuro,Assistente Fiscal,Funcionário(a) atual,"Benefícios, diálogo e compreensão com os demais tanto de funcionários quanto para gestores, dependendo das situações que surgem no dia a dia.",2018-09-07,4.0,1,0
+72778728,Datweb,Analista De Mídias Sociais,Funcionário(a) atual,Uma empresa com ambiente de trabalho acolhedor e pessoas receptivas,2023-01-19,5.0,1,0
+30183193,Amaggi,Assistente Administrativo,"Ex-funcionário(a), mais de um ano","sem comentarios, otima empresa sem duvida.",2019-11-04,5.0,1,0
+50107547,Fundação Uniselva,Estagiário,Ex-estagiário,Bom relacionamento com estagiários. Bom desenvolvimento.,2021-07-21,5.0,1,0
+66946453,Amaggi,Funcionário confidencial,"Funcionário(a) atual, mais de 3 anos","Salario bom, estabilidade, muita segurança",2022-07-20,5.0,1,0
+46897118,"Log, Lab. Inteligência Digital",Analista De Sistemas,"Funcionário(a) atual, mais de 3 anos",Equipe jovem e dinâmica sempre disposta a ajudar e evoluir.,2021-05-13,4.0,1,0
+83125402,Redeflex,Gerente De Vendas,Funcionário(a) atual,"Autonomia para tomada de decisões
+",2024-01-07,4.0,1,0
+27112499,Fundação Uniselva,ESTÁGIO,Ex-funcionário(a),"Lugar com ambiente agradável para se trabalhar, com horário flexível na jornada de trabalho, remuneração salarial adequada para um estagiário.",2018-12-05,4.0,1,0
+68393193,Cigam Software Corporativo,Consultor De Vendas,"Funcionário(a) atual, mais de 3 anos","Eu amo trabalhar em uma empresa que preza a humanização, o trabalho em equipe e o bem estar de todos seus colaboradores!",2022-08-26,5.0,1,0
+44018412,DSS Tecnologia,Analista De Suporte Pleno,"Funcionário(a) atual, mais de 3 anos",Liberdade de expressao e trabalho em equipe,2021-03-15,5.0,1,0
+72785591,Grupo Bom Futuro,Encarregado,"Ex-funcionário(a), mais de um ano","Salário bom, muitos Benefícios e assistência, Compromisso com toda a sociedade em Geral.",2023-01-19,5.0,1,0
+46832166,NBS Informática,Analista De Sistemas Pleno,Funcionário(a) atual,Estremamente correta em suas obrigações,2021-05-12,4.0,1,0
+26627509,Amaggi,Auxiliar Administrativo,Funcionário(a) atual,Empresa de oportunidades para crescimento profissional.,2015-03-01,3.0,1,0
+27621266,Eco Centauro,Funcionário confidencial,"Funcionário(a) atual, mais de 5 anos","O processo foi reestruturado, hoje a empresa trabalha com o modelo Scrum, existem os esquadrões, a comunicação entre os colaboradores melhorou.",2019-06-26,4.0,1,0
+66077154,MOVERE (Brazil),Sales Development Representative (SDR),"Prestador de serviços atual, mais de um ano","Empresa está em crescimento e tem a ansia de melhoria
+
+Feedback constantes e pensado no resultado de equipe",2022-06-28,5.0,1,0
+67164500,Abaco Tecnologia de Informação Ltda,Desenvolvedor De Sistemas,"Ex-funcionário(a), mais de 3 anos","Em termos tecnológico anda muito devagar, para uma empresa desse porte.",2022-07-26,3.0,2,0
+74088505,Amaggi,Representante Técnico Comercial Sênior,Funcionário(a) atual,Remuneração baixa nos cargos mais altos.,2023-03-01,5.0,2,0
+40884082,Redeflex,Assistente De Relacionamento,Ex-funcionário(a),"Desconta muitas coisas, não concordo com a maioria deles.",2021-01-17,4.0,2,0
+73828914,Eco Centauro,Analista De Sistemas,Ex-funcionário(a),Baixa remuneração mesma para quem está iniciando,2023-02-21,3.0,2,0
+52395036,Amaggi,Funcionário confidencial,"Funcionário(a) atual, menos de um ano","Distância, Distância, Distância, Distância, Distância.",2021-09-11,5.0,2,0
+26770042,Cigam Software Corporativo,Implementador,Funcionário(a) atual,"Salário baixo, nao há plano de promoção, carreira, não tem expectativa de troca de função, muitas horas de trabalho e muitas viagens a trabalho",2016-06-28,4.0,2,0
+80958783,Agenda Assessoria,Analista De Requisitos,Funcionário(a) atual,"Ter que fazer a documentação às pressas para realizar a entrega dos requisitos, acaba por vezes, não ficando bem feito como deveria.",2023-10-15,3.0,2,0
+26616236,Amaggi,Assistente De Planejamento,Funcionário(a) atual,"Nem todos conseguem ter a uma visão global,  isso acaba prejudicando o crescimento de um e de outro.",2015-01-25,4.0,2,0
+76823317,Amaggi,Supervisor/Coordenador,"Ex-funcionário(a), mais de 10 anos","Cultura organizacional, discurso diferente da pratica, valores organizacionais não são exercitados pelos seus diretores e nem pelo CEO Remuneração variável com processo altamente questionável",2023-05-26,2.0,2,0
+74515904,Redeflex,Representante Comercial,Ex-funcionário(a),Trabalhar com venda de chip,2023-03-14,5.0,2,0
+28408933,Agenda Assessoria,Contador Sênior,"Funcionário(a) atual, mais de 3 anos",Falta benefícios na empresa.,2019-08-02,3.0,2,0
+64866725,Grupo Bom Futuro,Jovem Aprendiz Administrativo,Funcionário(a) atual,"Cadeiras não muito confortáveis, papel higiênico muito seco.",2022-05-30,4.0,2,0
+26946169,Grupo Bom Futuro,Encarregado Operacional,Ex-funcionário(a),"Pessoas, gerentes e gestores fracos e buscam apenas puxar o saco dos diretores, escondem muito as coisas reais, na fazendas é complicado de se trabalhar, chance de crescimento é pouco.",2018-01-04,4.0,2,0
+76084704,Amaggi,Assistente Técnico de Vendas - ATV,Ex-funcionário(a),Melhora no salário do assistente técnico de campo,2023-05-03,5.0,2,0
+51917987,Cigam Software Corporativo,Gerente Comercial,"Funcionário(a) atual, mais de 10 anos",Salário abaixo do mercado e pouca visibilidade nacional,2021-08-31,4.0,2,0
+68455010,Cigam Software Corporativo,Auxiliar De Vendas,Funcionário(a) atual,"Salário inicial baixo, equiparação salarial",2022-08-29,5.0,2,0
+45057762,Cigam Software Corporativo,IT Consultant,Funcionário(a) atual,Sobrecarga de responsabilidades de diferentes áreas de conhecimento,2021-04-05,5.0,2,0
+27056784,Tecnomapas,Auxiliar De Geoprocessamento,Funcionário(a) atual,"Salário, não existe benefícios nem plano de carreira. A empresa simplesmente não liga em perder seus funcionários, tratam todos como temporários, não valorizam em nenhum aspectos seus colaboradores.",2018-09-06,1.0,2,0
+46320758,Amaggi,Jovem Aprendiz Auxiliar Administrativo,Ex-funcionário(a),O jovem aprendiz é um pouco limitado pois não possui usuário e por isso depende dos outros para realizar certos trabalhos.,2021-04-30,5.0,2,0
+27458704,Puma Sistemas,Analista De Suporte De Sistemas,"Ex-funcionário(a), mais de 5 anos","Existe uma intimidade muita grande entre os funcionários da empresa, que acaba afetando diretamente nos trabalhos e nas rotinas do dia a dia.",2019-06-04,4.0,2,0
+57210148,Abaco Tecnologia de Informação Ltda,Técnico Suporte N2,Funcionário(a) atual,"- Funções não definidas
+
+- Projetos",2021-12-29,4.0,2,0
+52069848,Amaggi,Mecânico,"Ex-funcionário(a), mais de 5 anos",Alguns gestores não caem bem na empresa.,2021-09-03,4.0,2,0
+26979558,Cigam Software Corporativo,Funcionário confidencial,Ex-funcionário(a),"Nada de liderança dos donos e muito menos dos supervisores, não incentivam crescimento, imposição de regras inúteis, funções e tarefas inadequadas ao cargo, querem mais do que pagam... Não são bons ouvintes, focam naquilo que beneficiam aos donos e não a empresa como um todo! Infelizmente, não existe diálogo de parceria, é o tipo de empresa que o dono manda e o funcionário se obriga a fazer, mesmo não sendo adequado ao ambiente e a todos envolvidos.",2018-03-05,1.0,2,0
+27135644,Amaggi,Funcionário confidencial,Funcionário(a) atual,"Burocrática, não dá autonomia de gestão o que dificulta o andamento dos processos, tudo tem que passar por avaliação de líderes, os setores são individualistas e o clima de trabalho não é dos melhores.",2019-01-19,3.0,2,0
+27317927,NBS Informática,Consultor De Implantação Júnior,Funcionário(a) atual,"Baixo feedback, pouco reconhecimento, plano de carreira inexistente, novos funcionários com pouco apoio técnico e treinamentos, salarios desnivelados.",2019-02-15,3.0,2,0
+27978354,Grupo Bom Futuro,Assistente De Produção,"Funcionário(a) atual, menos de um ano","Alojamento regular,  plano de carreira regular e poucos programas de desenvolvimento interpessoal.",2019-07-13,3.0,2,0
+27112466,Amaggi,Comprador,Funcionário(a) atual,"Não possui plano de carreira , muita mudanças de opiniões em alguns setores gerando incertezas na equipe. Algumas metodologias poderia ser melhoradas",2018-12-05,3.0,2,0
+73488936,Amaggi,Almoxarifado,Funcionário(a) atual,Plano de saúde podia melhorar.,2023-02-09,5.0,2,0
+42640460,Cigam Software Corporativo,Funcionário confidencial,"Ex-funcionário(a), mais de 5 anos","- O salário é razoável;
+- Funcionários com tempo de casa possuem opinião que pesa bastante, mesmo que estejam nitidamente ultrapassados, então isso acaba apagando a motivação de pessoas novas;
+- Perfil de liderança é confundido com tempo de casa;
+- É difícil você ser reconhecido espontaneamente, em muitos casos só ganham aumento colaboradores que ""ameaçam"" sair da empresa.
+- Ás vezes falta pulso das lideranças e do RH para conduzir e punir casos de faltas de conduta ética.",2021-02-17,4.0,2,0
+27307697,Cigam Software Corporativo,Gerente De Projetos,Funcionário(a) atual,A empresa poderia ser mais transparente em algumas situações. Os gestores poderiam se envolver mais em algumas situações. Não há um plano de carreira claro e bem definido.,2019-02-01,4.0,2,0
+47103149,Amaggi,Operador Industrial,"Ex-funcionário(a), mais de um ano","Rotas, epi's, segurança, transparência, comunicação",2021-05-18,4.0,2,0
+46752504,Grupo Bom Futuro,Assistente Administrativo,"Funcionário(a) atual, menos de um ano",sistema de avaliação de funcionários,2021-05-10,2.0,2,0
+70274520,DSS Tecnologia,Funcionário confidencial,"Funcionário(a) atual, mais de um ano",Salários atrasaram direto VA também atrasam Não tem plano de saúde Não tem oportunidade de crescimento dentro da empresa,2022-10-18,2.0,2,0
+48308283,Abaco Tecnologia de Informação Ltda,Programador Júnior,"Funcionário(a) atual, mais de um ano",Não possui projetos de incentivo a educação,2021-06-14,5.0,2,0
+45910064,"Log, Lab. Inteligência Digital",Funcionário confidencial,Funcionário(a) atual,"Não disponibilizam muitos benefícios. Não possuem plano de carreira. O RH não dá suporte ao funcionário, apenas segue ordens da Diretoria. Não há reconhecimento financeiro. Área administrativa bagunçada. Aumento de salário só conseguido através de influência social. Diretoria não se importa com opinião técnica.",2021-04-22,3.0,2,0
+68504931,Agenda Assessoria,Economista,"Ex-funcionário(a), mais de um ano","Não há plano de carreira, salário bem abaixo da média do mercado, carga
+
+excessiva de trabalho precisando realizar horas extras que dificilmente são remuneradas.",2022-08-30,3.0,2,0
+26808207,Amaggi,Analista Financeiro Júnior,"Ex-funcionário(a), mais de um ano","Estrutura organizacional engessada e pouca descentralização / possibilidade de participação em níveis mais estruturados de tomada de decisão. Não existe plano de cargos, carreira e salários tornando a perspectiva de crescimento nebulosa para os colaboradores. Não conta com espaço para refeições / microondas e descanso.",2017-01-02,3.0,2,0
+51780328,Redeflex,Operadora De Caixa Líder,Funcionário(a) atual,Supervisão deixa muito nítido o tamanho do favoritismo entre funcionários.,2021-08-28,4.0,2,0
+74686130,Cigam Software Corporativo,Analista De Teste Junior,Funcionário(a) atual,Alguns softwares utilizados são ultrapassados,2023-03-20,5.0,2,0
+74096264,MOVERE (Brazil),Analista De Implantação Pleno,Funcionário(a) atual,"Muita demanda, pouco salário e uma gestão péssima.",2023-03-01,2.0,2,0
+51724884,Amaggi,Especialista Em Controladoria,"Ex-funcionário(a), mais de 3 anos","Não tem um plano de carreira para os colaboradores, headcount inchado, poucas oportunidades para liderança de equipes.",2021-08-27,3.0,2,0
+52751897,Amaggi,ANALISTA SAP,"Ex-funcionário(a), mais de 5 anos",Algumas políticas podem engessar certos processos e mudanças internas.,2021-09-18,5.0,2,0
+46522052,MTI - Empresa Mato-grossense de Tecnologia da Informação ,Estagiário De TI,Ex-estagiário,Por ser uma estatal acaba havendo muita burocracia.,2021-05-05,4.0,2,0
+61000435,Amaggi,Almoxarifado,"Funcionário(a) atual, mais de um ano",Tem que levantar muito cedo as 4 da manhã,2022-03-11,5.0,2,0
+85400519,Cigam Software Corporativo,Assistente De Relacionamento,Funcionário(a) atual,Salário abaixo do que as demais empresas do ramo.,2024-03-16,4.0,2,0
+78035609,Amaggi,Cza marítimo,"Ex-funcionário(a), menos de um ano",As vezes tem algumas injustiças ...por conta de fofoca...,2023-07-07,5.0,2,0
+40436354,Amaggi,Auxiliar Administrativo,"Funcionário(a) atual, mais de um ano",Muito serviço pra pouco salário,2021-01-11,5.0,2,0
+58460915,DSS Tecnologia,Recepcionista,"Ex-funcionário(a), mais de 3 anos","Salário baixo,carga horária,atraso de salário",2022-01-24,2.0,2,0
+54347466,Amaggi,Classificador De Grãos,"Ex-funcionário(a), mais de um ano",Não tenho nada contra a empresa,2021-10-22,4.0,0,0
+31567132,Cigam Software Corporativo,Analista de atendimento,"Funcionário(a) atual, menos de um ano",Nada a mencionar até o memento.,2020-01-29,5.0,0,0
+27147570,Abaco Tecnologia de Informação Ltda,Programador I Júnior,Funcionário(a) atual,"Por trabalhar como outsourcing, meu relacionamento com a empresa era quase inexistente. Somente vou na sede da empresa para assinar um ou outro documento.",2016-03-23,3.0,0,0
+74013768,Cigam Software Corporativo,Analista Pleno,"Funcionário(a) atual, mais de 5 anos",atualmente não vejo pontos negativos,2023-02-27,5.0,0,0
+53003542,Amaggi,Especialista,"Funcionário(a) atual, mais de 8 anos","Como toda empresa sempre há pontos de melhoria, no entanto vejo a empresa sempre buscar corrigi-los.",2021-09-23,5.0,0,0
+61047388,NBS Informática,Analista De Sistemas Sênior,"Funcionário(a) atual, mais de 10 anos","Nenhum, pois tudo depende das pessoas.
+
+A empresa provê tudo, basta o funcionario querer e ser capaz de trabalhar nela.",2022-03-13,5.0,0,0
+66263015,Amaggi,Assistente Administrativo,"Funcionário(a) atual, mais de 10 anos",Não tenho nenhum contra a Amaggi.,2022-07-04,5.0,0,0
+70655056,Grupo Bom Futuro,Auxiliar Administrativo,"Ex-funcionário(a), mais de um ano",Pela minha experiência não tem nenhum ponto negativo,2022-10-31,5.0,0,0
+43292685,MOVERE (Brazil),Analista De Sistemas,"Ex-prestador de serviços, mais de 3 anos",continuo um aprendiz mas com uma grande bagagem de conhecimento,2021-03-01,5.0,0,0
+26744494,Cigam Software Corporativo,Funcionário confidencial,Funcionário(a) atual,"Ambiente físico é um pouco limitado, mas já estão com projeto para construção de uma nova sede. Isso será ótimo!",2016-01-20,5.0,0,0
+83350984,Grupo Bom Futuro,Técnico Em Agropecuária,Ex-funcionário(a),Nenhum contra a falar ….,2024-01-14,5.0,0,0
+54498640,Totem Treinamento e Consultoria em TI,Programador treinee,Funcionário(a) atual,não tenho nada contraa totem,2021-10-26,5.0,0,0
+26926613,Totem Treinamento e Consultoria em TI,Programador Trainee,Funcionário(a) atual,asssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssasssssssssssssssssssssss,2017-11-14,5.0,0,0
+73112913,Grupo Bom Futuro,Menor Aprendiz,Ex-funcionário(a),Não tem o que falar mal,2023-01-29,5.0,0,0
+84718079,Abaco Tecnologia de Informação Ltda,Analista De Negócios Sênior,"Funcionário(a) atual, mais de 5 anos",Não há algo que eu possa apontar como contra.,2024-02-25,5.0,0,0
+26787293,Coplan Consultoria e Planejamento,Analista De Negócios,Funcionário(a) atual,"Bom em uma empresa você vai ter que ver varios pontos , entre eles o tanto de capital para você envestir em rendimentos , os pontos fortes são que uma empresa se envestir com conciencia, não precisa de muitas pessoas mas depende do tamanho da empresa, se você quer ir bem invista com sabedoria e pense sempre no futuro da empresa.",2016-09-23,5.0,0,0
+67624884,Redeflex,Gerente Comercial,Funcionário(a) atual,"Nada contra, atuação necessárias sobre as ações",2022-08-06,5.0,0,0
+56963762,Grupo Bom Futuro,Monitor Técnico,"Funcionário(a) atual, mais de um ano","Nada contra, nada a dizer a essa empresa",2021-12-21,5.0,0,0
+83470248,Grupo Bom Futuro,Encarregado Administrativo,Ex-funcionário(a),"acredito que não teve contras, muitos desafios ao longo dos anos, nada que não desse para contornar e deixar o processo com excelência.",2024-01-17,5.0,0,0
+68459990,Cigam Software Corporativo,Sales Executive,"Funcionário(a) atual, mais de 8 anos",Estou a dois anos na CIGAM e até o momento tudo ocorre na perfeita harmonia.,2022-08-29,5.0,0,0
+56351596,MOVERE (Brazil),Analista De Suporte Pleno,"Funcionário(a) atual, mais de 5 anos",Não encontrei contras. Pelo menos no meu ponto de vista.,2021-12-07,5.0,0,0
+77224369,Amaggi,Assistente De Benefícios,"Ex-funcionário(a), menos de um ano","Não tem contras, é uma empresa ótima",2023-06-09,5.0,0,0
+76993565,Agenda Assessoria,Consultor Sênior,"Funcionário(a) atual, mais de 5 anos","Não são pontos contras, mas é interessante possuir mais transparência nos processos de promoção e buscar ferramentas para aumentar a satisfação dos colaboradores, bem como a retenção de talentos.",2023-06-01,5.0,0,0
+60911833,Amaggi,Avaliador De Mídia Social,"Ex-funcionário(a), mais de um ano","Dedication is my strong point, I want to improve myself so the difficult is fundamental.",2022-03-10,5.0,0,0
+49088746,Amaggi,Analista Materiais PL,Funcionário(a) atual,não nada a citar sobre,2021-06-29,5.0,0,0
+53175896,Cigam Software Corporativo,Analista De Suporte Júnior,Funcionário(a) atual,Nada a mencionar neste momento.,2021-09-27,5.0,0,0
+46207446,Amaggi,Funcionário confidencial,Funcionário(a) atual,Nada contra sobre a empressa,2021-04-28,5.0,0,0
+32613485,Grupo Bom Futuro,Mecânico,"Ex-funcionário(a), menos de um ano",Não tenho nada contra a empresa,2020-04-05,5.0,0,0
+69334881,Puma Sistemas,Programador Delphi,"Funcionário(a) atual, mais de 10 anos",Não vejo pontos negativos nesta empresa.,2022-09-22,5.0,0,0
+73311558,Datweb,Estagiário,"Funcionário(a) atual, menos de um ano",Não tenho nenhum ponto negativo até o momento.,2023-02-04,5.0,0,0
+26986202,Amaggi,Coordenador Operacional,"Ex-funcionário(a), mais de 5 anos","Salário ,um pouco baixo,no meu ponto de vista , mais apesar que tudo está difícil hoje em dia , não posso arrumar só pontos negativos , porque tem as qualidades que superam",2018-03-16,4.0,0,0
+79070875,"Log, Lab. Inteligência Digital",Desenvolvedor Júnior,Ex-funcionário(a),"Paga certo, poucos benefícios e.",2023-08-11,3.0,0,0
+74309550,Grupo Bom Futuro,Encarregado Operacional,"Ex-funcionário(a), mais de 8 anos",NAda a declarar no momento,2023-03-08,5.0,0,0
+52617276,Totem Treinamento e Consultoria em TI,Programador Trainee,"Funcionário(a) atual, menos de um ano",eu nao tenho nenhum contra.,2021-09-15,5.0,0,0
+74859163,Amaggi,RTC,"Funcionário(a) atual, menos de um ano",Não existe contras a serem falados.,2023-03-24,5.0,0,0
+64925288,Cigam Software Corporativo,Estagiário,Funcionário(a) atual,não encontrei nenhum até hoje,2022-05-31,5.0,0,0
+43292685,MOVERE (Brazil),Analista De Sistemas,"Ex-prestador de serviços, mais de 3 anos","Dinheiro não e tudo!
+
+Honra e algo que devemos levar para resto da vida",2021-03-01,5.0,0,0
+66284241,Agenda Assessoria,Analista De Qualidade,Funcionário(a) atual,o questionamento será respondido em outra aportunidade,2022-07-04,4.0,0,0
+69112232,DSS Tecnologia,Diretor De Operações,Funcionário(a) atual,empresa em busca da excelência em sua area,2022-09-15,5.0,0,0
+26964221,DSS Tecnologia,Técnico De Suporte II,Funcionário(a) atual,Trabalhei por exatos dois anos nesta empresa e ocupei diversos cargos e pelo momento não vislumbro nenhum fato desabonador quanto a empresa e diretores.,2018-02-05,4.0,0,0
+51590078,Amaggi,Mecanico,Ex-funcionário(a),Antes tinha uns gestores não muito engajados pois agora creio que sim,2021-08-24,5.0,0,0
+46310993,Cigam Software Corporativo,Funcionário confidencial,Funcionário(a) atual,"localização, não tem muitos contras para avaliar",2021-04-30,5.0,0,0
+75724853,Amaggi,Motorista Carreteiro,"Funcionário(a) atual, mais de 8 anos",Nada contra nenhuma reclamação nenhum problema contra,2023-04-21,5.0,0,0
+63057809,Amaggi,Assistente,Funcionário(a) atual,Sem pontos negativos a destacar.,2022-04-20,5.0,0,0
+84009079,Liberali,Sales Development Representative (SDR),"Funcionário(a) atual, mais de 3 anos",Não tenho contras. Tirando fofocas de funcionários que não tem coragem de se demitir e ficam falando mal da empresa.,2024-02-02,5.0,0,0
+71591580,Agenda Assessoria,Técnico Operacional,Funcionário(a) atual,Não há nada a ser apontado.,2022-12-03,5.0,0,0
+69289053,Cigam Software Corporativo,Analista De Projetos Pleno,"Funcionário(a) atual, mais de 10 anos","Não tenho pontos contras a compartilhar. Os que tinha, viram sugestões e foram atendidas. :)",2022-09-21,5.0,0,0
+26775402,Amaggi,Auxiliar Administrativo,Funcionário(a) atual,"Somente que é longe da cidade. E torna-se mais cansativo, por as vezes não termos tempo para resolver nossos problemas pessoas (Ex. Banco), mas fora isso é uma ótima empresa.",2016-07-25,5.0,0,0
